@@ -1,7 +1,11 @@
 # LCD1602
-A full library of LCD1602 on Arduino
+A full library of LCD1602 on (Ard|Gen)uino
+LCD1602 is a series of HD44780 compatible LCD module.
 
 # To-do list
+1. Add support for CGRAM
+2. Add a map for HD44780 non-ascii characters
+3. Add some common display effects
 
 # Example
 ```C++
