@@ -1,5 +1,6 @@
 # LCD1602
 A full library of LCD1602 on (Ard|Gen)uino
+
 LCD1602 is a series of HD44780 compatible LCD module.
 
 # To-do list
